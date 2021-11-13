@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">CustomResources</string>
+
+    <string name="calculation_text_view">300 × 42</string>
+    <string name="result_text_view">12,936</string>
+
+    <string name="ac_btn">AC</string>
+    <string name="plus_minus_btn">+/-</string>
+    <string name="percentage_btn">%</string>
+    <string name="divide_btn">÷</string>
+    <string name="multiply_btn">×</string>
+    <string name="minus_btn">-</string>
+    <string name="plus_btn">+</string>
+    <string name="equal_btn">=</string>
+    <string name="point_btn">.</string>
+    <string name="brackets_btn">( )</string>
+
+
+    <string name="zero_btn">0</string>
+    <string name="one_btn">1</string>
+    <string name="two_btn">2</string>
+    <string name="three_btn">3</string>
+    <string name="four_btn">4</string>
+    <string name="five_btn">5</string>
+    <string name="six_btn">6</string>
+    <string name="seven_btn">7</string>
+    <string name="eight_btn">8</string>
+    <string name="nine_btn">9</string>
+</resources>
